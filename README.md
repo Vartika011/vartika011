@@ -15,7 +15,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/vartika singh rajput" target="_blank">
+  <a href="https://linkedin.com/in/[vartika singh rajpu](https://www.linkedin.com/in/vartika-singh-rajput-257285280/)t" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/_._vartikkaaa_._" target="_blank">
