@@ -4,7 +4,6 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **an IMDB-style Movie Search Website** using **React, Node.js, and CSS**  
 - 🤝 I’m looking to collaborate on **Full Stack Web Development projects or creative web apps**   
 - 🌱 I’m currently learning **Advanced React concepts, MongoDB, and Express.js**  
 - 💬 Ask me about **React, Node.js, Frontend Design, and building dynamic web apps**  
